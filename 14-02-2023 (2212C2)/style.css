@@ -1,0 +1,50 @@
+/* fieldset{
+    width: 300px;
+} */
+
+#fn{
+    /* font-size: 50px;
+    font-family: 'Times New Roman', Times, serif; */
+}
+
+/* td,th{
+    text-align: center;
+} */
+/* table{
+    background-color: black;
+    color: white;
+    border: 2px solid green;
+}
+th,td{
+    border: 2px dotted red;
+}
+#third{
+    background-color: gray;
+} */
+/* #kh:hover{
+    background-color: purple;
+} */
+/* tr:hover{
+    background-color: white;
+    color: black;
+} */
+/* table:hover{
+    background-color: brown;
+} */
+#o{
+    text-align: center;
+}
+td{
+    width: 100px;
+    text-align: center;
+}
+/* #sh{
+    height: 100px;
+} */
+#sh{
+    height: 50px;
+}
+/* #tx:focus{
+    background-color: purple;
+    color: white;
+} */
